@@ -1,0 +1,731 @@
+{
+  "views": [
+    {
+      "name": "Attic",
+      "weight": 3,
+      "_id": "60e5a58422b01239d515b583"
+    },
+    {
+      "name": "Balcony",
+      "weight": 3,
+      "_id": "60e5a5845751e5e34a072619"
+    },
+    {
+      "name": "Basement",
+      "weight": 3,
+      "_id": "60e5a584fb995b1a7c3ad093"
+    },
+    {
+      "name": "Bathroom",
+      "weight": 3,
+      "_id": "60e5a584741185d00e4e5c67"
+    },
+    {
+      "name": "Bedroom",
+      "weight": 3,
+      "_id": "60e5a5841fe9bf5a24cd90cc"
+    },
+    {
+      "name": "Chimney",
+      "weight": 3,
+      "_id": "60e5a584eb9d47cb105f8a53"
+    },
+    {
+      "name": "Dining Room",
+      "weight": 3,
+      "_id": "60e5a584c388b11caa9f7e08"
+    },
+    {
+      "name": "Doorstep",
+      "weight": 3,
+      "_id": "60e5a58476ed343362f30897"
+    },
+    {
+      "name": "Dormer Window",
+      "weight": 3,
+      "_id": "60e5a584d2ecd2c5a340f44b"
+    },
+    {
+      "name": "Driveway",
+      "weight": 3,
+      "_id": "60e5a584ede84ef9bbc1b384"
+    },
+    {
+      "name": "Family Room",
+      "weight": 3,
+      "_id": "60e5a584fd3e3a17f52e168b"
+    },
+    {
+      "name": "Fence",
+      "weight": 3,
+      "_id": "60e5a58497121d06105b757a"
+    },
+    {
+      "name": "Game Room",
+      "weight": 3,
+      "_id": "60e5a584977fe2d543050590"
+    },
+    {
+      "name": "Garage",
+      "weight": 3,
+      "_id": "60e5a58432f12b60bdd71abf"
+    },
+    {
+      "name": "Garden",
+      "weight": 3,
+      "_id": "60e5a58482544f41f5c5af44"
+    },
+    {
+      "name": "Guest Room",
+      "weight": 3,
+      "_id": "60e5a584bfccd3a6aad957d5"
+    },
+    {
+      "name": "Gym",
+      "weight": 3,
+      "_id": "60e5a5844e2f77a519065eb5"
+    },
+    {
+      "name": "Hanging Basket",
+      "weight": 3,
+      "_id": "60e5a5846fb407cbdcfb7f1c"
+    },
+    {
+      "name": "Home Office",
+      "weight": 3,
+      "_id": "60e5a58407fca0427046d63f"
+    },
+    {
+      "name": "Home Theatre Room",
+      "weight": 3,
+      "_id": "60e5a584c1bbcbb47bc3f0ae"
+    },
+    {
+      "name": "Kitchen",
+      "weight": 3,
+      "_id": "60e5a584e06aedbd599f488b"
+    },
+    {
+      "name": "Laundry Room",
+      "weight": 3,
+      "_id": "60e5a58479b4ad8d2cf6fc9e"
+    },
+    {
+      "name": "Letterbox",
+      "weight": 3,
+      "_id": "60e5a584a03a8adcd6572268"
+    },
+    {
+      "name": "Library ",
+      "weight": 3,
+      "_id": "60e5a5847aec46fe84e19022"
+    },
+    {
+      "name": "Living Room",
+      "weight": 3,
+      "_id": "60e5a584b3098502276773d6"
+    },
+    {
+      "name": "Nursery (Room)",
+      "weight": 3,
+      "_id": "60e5a5849220d25d4e6ece5e"
+    },
+    {
+      "name": "Path ",
+      "weight": 3,
+      "_id": "60e5a584b83893d23fef8b13"
+    },
+    {
+      "name": "Playroom",
+      "weight": 3,
+      "_id": "60e5a5844a5da11973df1efb"
+    },
+    {
+      "name": "Ridge",
+      "weight": 3,
+      "_id": "60e5a584ae1e318b3237b936"
+    },
+    {
+      "name": "Roof",
+      "weight": 3,
+      "_id": "60e5a584fc28725e2f4ab66f"
+    },
+    {
+      "name": "Satellite Dish",
+      "weight": 3,
+      "_id": "60e5a584b9c3d26d0155bc52"
+    },
+    {
+      "name": "Stairs",
+      "weight": 3,
+      "_id": "60e5a584f885cd0aed2d2258"
+    },
+    {
+      "name": "Storage Room",
+      "weight": 3,
+      "_id": "60e5a584140d5ec726005ebd"
+    },
+    {
+      "name": "Wall",
+      "weight": 3,
+      "_id": "60e5a5848084dadf193a0824"
+    },
+    {
+      "name": "Window",
+      "weight": 3,
+      "_id": "60e5a5846abbbd6401948ddf"
+    },
+    {
+      "name": "Yard",
+      "weight": 3,
+      "_id": "60e5a58432ed54e3ad325194"
+    }
+  ],
+  "properties": [
+    {
+      "_id": "60bb55709a5d848fe940df33",
+      "address": "207 Vandam Street, Fulford, South Carolina",
+      "beds": 4,
+      "bathrooms": 3,
+      "stars": 2.8,
+      "area": 2228,
+      "price": "$653,133",
+      "img": "https://i.pinimg.com/originals/5f/89/9a/5f899a90800137b2305a887f84107c59.jpg",
+      "parts": [
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Reprehenderit Lorem minim cupidatat est velit eiusmod culpa laborum labore sit officia amet irure minim. Officia officia nisi cillum esse.",
+          "rating": 3.2
+        },
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Aliquip consectetur id proident quis occaecat velit laborum. Non cillum ex et minim reprehenderit nulla tempor eiusmod est.",
+          "rating": 3.7
+        },
+        {
+          "name": "bathroom",
+          "img": "http://placehold.it/512x512",
+          "description": "Amet minim est nisi laborum qui quis commodo ex eu in esse. Pariatur deserunt duis duis reprehenderit non.",
+          "rating": 3.2
+        },
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Laboris elit sint id ex aute occaecat ipsum proident elit eiusmod ex et anim incididunt. Qui adipisicing ex commodo dolore laboris dolor.",
+          "rating": 3.4
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Qui nostrud ea laboris labore minim aute id anim sunt sit. Sit proident nostrud ad ut.",
+          "rating": 1.2
+        },
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Enim non ad incididunt minim dolore fugiat anim laborum reprehenderit sunt tempor voluptate veniam. Excepteur duis occaecat aliqua culpa officia fugiat eu excepteur incididunt cillum dolore in non ex.",
+          "rating": 4.9
+        },
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Esse veniam aliquip elit mollit laborum incididunt exercitation consectetur officia veniam fugiat aute. Reprehenderit dolor sunt sint ex commodo nisi cupidatat non esse esse laboris.",
+          "rating": 2.8
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Non dolore cillum ea anim nulla. Nostrud ad deserunt ut anim nostrud Lorem incididunt est officia.",
+          "rating": 3.1
+        }
+      ]
+    },
+    {
+      "_id": "60bb55700c41cd8f45b00a11",
+      "address": "907 Beaver Street, Weogufka, New Mexico",
+      "beds": 2,
+      "bathrooms": 2,
+      "stars": "3.4",
+      "area": 1916,
+      "price": "$998,604",
+      "img": "https://media.istockphoto.com/photos/north-american-home-picture-id178373460?k=6&m=178373460&s=612x612&w=0&h=taGpNVB6RHwMcnUOtBLqVEEVk4MY5nHY9Ziaxp_zy1I=",
+      "parts": [
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Mollit sunt deserunt ipsum anim tempor eiusmod. Ullamco consectetur exercitation cillum cupidatat do deserunt qui pariatur do ipsum dolore id et.",
+          "rating": 4.2,
+          "weight": 2
+        },
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Nostrud consectetur ut amet incididunt amet elit cupidatat deserunt ad cillum. Ut cupidatat proident qui do tempor non commodo nulla occaecat est irure ea.",
+          "rating": 4.2,
+          "weight": 1
+        },
+        {
+          "img": "http://placehold.it/512x512",
+          "name": "basement",
+          "description": "its pretty good",
+          "rating": 4.2,
+          "weight": 3
+        },
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Excepteur proident cillum aliquip aliquip esse quis consequat ut excepteur enim. Eu tempor qui minim nostrud laborum magna.",
+          "rating": 4.1,
+          "weight": 4
+        },
+        {
+          "name": "bathroom",
+          "img": "http://placehold.it/512x512",
+          "description": "Anim eiusmod quis esse commodo. Nostrud nulla quis enim ea veniam aliquip sunt.",
+          "rating": 3.9,
+          "weight": 3
+        },
+        {
+          "img": "https://empire-s3-production.bobvila.com/slides/8018/original/front_yard_landscaping.jpg?1553204799",
+          "name": "Front View",
+          "description": "Looks pretty good but can definitely be improved",
+          "rating": 3,
+          "weight": 5
+        },
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Ea pariatur incididunt deserunt laborum nulla ex consectetur ullamco. Velit consectetur in ex incididunt est fugiat culpa pariatur velit.",
+          "rating": 2.8,
+          "weight": 5
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Sint duis id aliquip et. Id veniam nostrud laboris Lorem nisi labore do.",
+          "rating": 2.4,
+          "weight": 1
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Eiusmod culpa consequat officia duis consectetur aliqua. Cillum elit anim nisi ut ad sunt Lorem est cupidatat.",
+          "rating": 2.1,
+          "weight": 4
+        },
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Ea laborum elit deserunt ea ad incididunt id in nisi. Qui cillum do ullamco deserunt do pariatur voluptate sit cupidatat eu.",
+          "rating": 2,
+          "weight": 2
+        },
+        {
+          "img": "http://placehold.it/512x512",
+          "name": "Garden",
+          "description": "Great Garden",
+          "rating": 3.5
+        }
+      ]
+    },
+    {
+      "_id": "60bb5570cd47dc51addadd26",
+      "address": "154 Conway Street, Genoa, Arizona",
+      "beds": 5,
+      "bathrooms": 2,
+      "stars": "2.8",
+      "area": 1836,
+      "price": "$536,147",
+      "img": "https://i.pinimg.com/originals/92/bf/9a/92bf9a539436dbdd08889353916d7182.jpg",
+      "parts": [
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Veniam consectetur aliqua aute ipsum elit tempor ut proident proident ut exercitation. Ullamco aliqua dolore incididunt dolor sunt et fugiat cillum Lorem quis qui Lorem incididunt.",
+          "rating": 4.6
+        },
+        {
+          "img": "http://placehold.it/512x512",
+          "name": "Attic",
+          "description": "Great Attic",
+          "rating": 4
+        },
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Est sit incididunt pariatur ullamco veniam labore fugiat ipsum consequat eu mollit exercitation duis sit. Aliquip in dolor fugiat pariatur elit in quis tempor ullamco mollit enim reprehenderit.",
+          "rating": 3.2
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Aliquip adipisicing reprehenderit fugiat ea ad elit do elit fugiat non magna. Dolore veniam adipisicing officia qui sunt deserunt eiusmod.",
+          "rating": 2.3
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Do tempor commodo Lorem magna laboris et duis do qui esse sunt labore. Irure in aliqua adipisicing irure.",
+          "rating": 1.9
+        },
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Sunt quis Lorem adipisicing aliquip cillum labore enim mollit irure ad. In culpa occaecat sit veniam reprehenderit cupidatat laboris aliqua irure.",
+          "rating": 1.8
+        },
+        {
+          "name": "bathroom",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bathroom-shelf-ideas-hbx120119scherer-005-1580423923.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=640:*",
+          "description": "Lorem cillum eu cillum amet pariatur. Non pariatur incididunt ea amet incididunt laborum et veniam.",
+          "rating": 1.5
+        },
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Laborum aliquip veniam Lorem minim non Lorem irure sunt ea tempor tempor do. Enim reprehenderit aliqua cupidatat dolore veniam ut pariatur minim eiusmod.",
+          "rating": 1.3
+        },
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Adipisicing enim dolor dolor ullamco irure qui mollit cupidatat deserunt aliquip laborum qui consequat. Aliquip ut veniam consequat quis.",
+          "rating": 1
+        },
+        {
+          "img": "http://placehold.it/512x512",
+          "name": "Game Room",
+          "description": "Great Game room",
+          "rating": 5
+        }
+      ],
+      "rating": "2.2"
+    },
+    {
+      "_id": "60bb5570858d72d4a2f31086",
+      "address": "481 Kane Street, Camino, Rhode Island",
+      "beds": 2,
+      "bathrooms": 2,
+      "stars": 2.2,
+      "area": 3437,
+      "price": "$1,442,836",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bathroom-shelf-ideas-hbx120119scherer-005-1580423923.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=640:*",
+      "parts": [
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Reprehenderit cupidatat tempor ut magna tempor. Est ex quis nostrud nulla mollit ex.",
+          "rating": 3.8
+        },
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Magna esse nulla id sunt. Voluptate irure dolore nostrud est occaecat id consequat velit.",
+          "rating": 4
+        },
+        {
+          "name": "bathroom",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bathroom-shelf-ideas-hbx120119scherer-005-1580423923.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=640:*",
+          "description": "Irure consectetur dolor quis veniam labore eu ipsum in ullamco culpa. Do irure cupidatat id quis proident.",
+          "rating": 1.8
+        },
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Incididunt nostrud non aliqua velit culpa. Commodo laboris nulla sint est officia.",
+          "rating": 3.8
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Aliqua dolore eiusmod minim qui ea elit esse tempor sint nostrud veniam ullamco. Lorem veniam ex magna sint in excepteur tempor.",
+          "rating": 4.4
+        },
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Laboris elit cillum dolor ex excepteur ullamco dolore in sit non anim. Officia laboris commodo nostrud velit magna eiusmod sunt Lorem.",
+          "rating": 1.9
+        },
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Laboris excepteur esse id aliquip pariatur duis eu in dolore anim incididunt voluptate duis. Cillum magna sint reprehenderit et irure duis.",
+          "rating": 2.7
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Occaecat incididunt ullamco anim elit aliqua commodo ipsum qui sint quis minim ad. Adipisicing minim sit irure ipsum.",
+          "rating": 3.9
+        }
+      ]
+    },
+    {
+      "_id": "60bb5570f8f2be435b41a710",
+      "address": "226 Jerome Avenue, Allendale, Idaho",
+      "beds": 1,
+      "bathrooms": 2,
+      "stars": "3.7",
+      "area": 3263,
+      "price": "$1,459,730",
+      "img": "https://media.istockphoto.com/photos/modern-custom-suburban-home-exterior-picture-id1255835530?k=6&m=1255835530&s=612x612&w=0&h=k6zqtprsvGmulYb3PuhGorNlbS69tXTSQ-fh_2jYcjY=",
+      "parts": [
+        {
+          "name": "bathroom",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bathroom-shelf-ideas-hbx120119scherer-005-1580423923.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=640:*",
+          "description": "Magna enim id aute aliquip est adipisicing culpa incididunt Lorem excepteur non consequat pariatur cupidatat. Quis nulla esse quis voluptate ad commodo qui consequat labore eiusmod adipisicing aliqua occaecat et.",
+          "rating": 5
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Cupidatat elit sit veniam eiusmod incididunt cillum ullamco duis occaecat sunt eu quis. Enim cupidatat aliqua quis officia quis fugiat irure consequat laborum.",
+          "rating": 4.9
+        },
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Labore ullamco velit exercitation veniam velit non esse id mollit commodo exercitation aliquip sint. Veniam reprehenderit mollit ex esse laborum do voluptate deserunt Lorem velit anim dolore.",
+          "rating": 4.9
+        },
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Aute nulla fugiat tempor magna esse duis pariatur Lorem eiusmod nulla velit. Exercitation in consequat Lorem proident excepteur occaecat culpa ullamco dolor excepteur ipsum consectetur magna.",
+          "rating": 3.7
+        },
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Laborum elit eiusmod irure ullamco id nulla quis dolore. Et reprehenderit laboris ut incididunt consequat voluptate minim non veniam ut anim consequat.",
+          "rating": 3.2
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Anim do anim aliquip eiusmod nostrud cupidatat sunt ea occaecat est est. Sint officia laborum aute nisi ipsum reprehenderit anim nulla magna dolor.",
+          "rating": 2.3
+        },
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Fugiat magna quis aute ut. Eiusmod eiusmod cillum id incididunt eu fugiat consectetur voluptate eiusmod dolore id qui veniam.",
+          "rating": 1.9
+        },
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Officia duis ad aliquip velit veniam id. Consectetur minim in fugiat adipisicing laborum proident laborum cillum exercitation minim anim esse.",
+          "rating": 1.7
+        },
+        {
+          "name": "Garden",
+          "img": "https://media.istockphoto.com/photos/beautiful-country-house-and-garden-picture-id1275090412?k=6&m=1275090412&s=170667a&w=0&h=SFBSUuYjKNVRoM2yI7PvUuV1OASg-OUjPNZoqJUqbms=",
+          "description": "What a marvelous garden. Magna enim id aute aliquip est adipisicing culpa incididunt Lorem excepteur non consequat pariatur cupidatat. Quis nulla esse quis voluptate ad commodo qui consequat labore eiusmod adipisicing aliqua occaecat et.",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "_id": "60bb5570bc8ba0542efa453f",
+      "address": "559 Erskine Loop, Ferney, Northern Mariana Islands",
+      "beds": 5,
+      "bathrooms": 2,
+      "stars": "2.9",
+      "area": 2241,
+      "price": "$1,185,919",
+      "img": "https://cdn.homedit.com/wp-content/uploads/2014/06/small-front-yard-landscape.jpg",
+      "parts": [
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Nisi et voluptate laboris do dolor id cupidatat esse ipsum. Proident proident ea officia enim enim exercitation quis voluptate proident duis anim laboris.",
+          "rating": 5
+        },
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Sunt qui ad aliqua laborum exercitation sunt. Aliquip dolore commodo do veniam cupidatat do qui tempor esse sint aute dolore tempor aute.",
+          "rating": 4.4
+        },
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Enim magna mollit in exercitation. Culpa exercitation in nisi sunt ullamco reprehenderit pariatur cupidatat sunt reprehenderit incididunt excepteur.",
+          "rating": 3.6
+        },
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Incididunt Lorem veniam dolor exercitation aute laboris esse duis voluptate do nostrud et excepteur ea. Dolore aliqua duis ut reprehenderit sit est voluptate ipsum non est ex.",
+          "rating": 3.2
+        },
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Commodo aliqua duis minim labore incididunt. Quis et eu deserunt qui dolor eu aute labore nisi cillum adipisicing et commodo laboris.",
+          "rating": 2.7
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Veniam sint veniam ullamco Lorem anim ea do ex sit elit et ex nostrud. Magna mollit cillum id voluptate labore qui occaecat anim ex sint ad voluptate.",
+          "rating": 2.2
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Aliqua pariatur adipisicing pariatur culpa anim cillum non proident velit irure nulla excepteur dolor. Eu deserunt minim tempor ut voluptate.",
+          "rating": 2
+        },
+        {
+          "name": "bathroom",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bathroom-shelf-ideas-hbx120119scherer-005-1580423923.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=640:*",
+          "description": "Amet velit id dolore non veniam quis sint et aute in aliquip magna. Eu reprehenderit anim cillum nulla aliqua sint.",
+          "rating": 1.6
+        },
+        {
+          "name": "Garden",
+          "img": "https://media.istockphoto.com/photos/beautiful-country-house-and-garden-picture-id1275090412?k=6&m=1275090412&s=170667a&w=0&h=SFBSUuYjKNVRoM2yI7PvUuV1OASg-OUjPNZoqJUqbms=",
+          "description": "Great Garden",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "_id": "60bb5570e7131276e3768cdd",
+      "address": "245 Norman Avenue, Snelling, Montana",
+      "beds": 3,
+      "bathrooms": 2,
+      "stars": 3.5,
+      "area": 3633,
+      "price": "$862,536",
+      "img": "https://empire-s3-production.bobvila.com/slides/8018/original/front_yard_landscaping.jpg?1553204799",
+      "parts": [
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Incididunt tempor proident qui incididunt sunt. Irure officia do dolor fugiat non dolor deserunt labore sit sunt magna.",
+          "rating": 4.7
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Incididunt elit est ut voluptate. Amet minim officia incididunt non amet veniam consectetur ut enim in.",
+          "rating": 4.7
+        },
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Dolor labore est velit consequat irure deserunt officia consectetur aute ea excepteur aliquip. Anim reprehenderit reprehenderit cupidatat deserunt in laborum Lorem reprehenderit labore cupidatat nulla.",
+          "rating": 4.6
+        },
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Aute qui aliquip veniam amet fugiat anim aliqua sit sit. Velit commodo aliqua quis do voluptate reprehenderit tempor esse nisi ad eu mollit.",
+          "rating": 4.1
+        },
+        {
+          "name": "bathroom",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bathroom-shelf-ideas-hbx120119scherer-005-1580423923.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=640:*",
+          "description": "Amet anim consequat laborum proident eiusmod magna dolor laboris aliquip occaecat sunt. Elit in laborum sunt pariatur aliqua et mollit ex duis.",
+          "rating": 4
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Excepteur ullamco quis pariatur cillum magna mollit sit mollit aute tempor. Est ipsum incididunt reprehenderit in.",
+          "rating": 3.4
+        },
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Irure reprehenderit enim dolore officia enim ipsum est ullamco laboris. Sint aute excepteur dolore sit proident cillum commodo id cillum anim.",
+          "rating": 3.3
+        },
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Ex deserunt irure nisi magna reprehenderit aliqua eiusmod laboris aliqua esse. Ea in ad culpa sit in proident aliquip exercitation eu mollit officia dolore.",
+          "rating": 3.2
+        }
+      ]
+    },
+    {
+      "_id": "60bb55704e43059db1df2e41",
+      "address": "691 Turner Place, Tilleda, Indiana",
+      "beds": 5,
+      "bathrooms": 3,
+      "stars": "3.5",
+      "area": 1827,
+      "price": "$718,947",
+      "img": "https://media.istockphoto.com/photos/north-american-home-picture-id178373460?k=6&m=178373460&s=612x612&w=0&h=taGpNVB6RHwMcnUOtBLqVEEVk4MY5nHY9Ziaxp_zy1I=",
+      "parts": [
+        {
+          "name": "Bedroom",
+          "img": "https://m.foolcdn.com/media/millionacres/original_images/bedroom_decor.jpg?crop=16:9,smart",
+          "description": "Velit velit adipisicing ad duis. ",
+          "rating": 4.5
+        },
+        {
+          "name": "Living Room",
+          "img": "https://www.thespruce.com/thmb/9zdyLzPobCbaJrCfue4JR-xe6Ps=/2075x1167/smart/filters:no_upscale()/living-room-dos-and-donts-2213467-hero-da82a4643bc84d669a0a34f64e60beb1.jpg",
+          "description": "Aute est ad nulla enim proident dolor eu do. ",
+          "rating": 4.5
+        },
+        {
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alexander-design-contemporary-family-room-1555952765.jpg",
+          "name": "Family Room",
+          "description": "asdfasd",
+          "rating": 4
+        },
+        {
+          "name": "Kitchen",
+          "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/23/1/HUHH2018-Curb-Appeal_Seattle-WA_11.jpg.rend.hgtvcom.966.644.suffix/1524514638493.jpeg",
+          "description": "Consequat laborum eiusmod ipsum deserunt ",
+          "rating": 3.5
+        },
+        {
+          "name": "Back Yard",
+          "img": "https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg",
+          "description": "Elit dolor magna mollit adipisicing aute voluptate proident ",
+          "rating": 3.1
+        },
+        {
+          "name": "bathroom",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bathroom-shelf-ideas-hbx120119scherer-005-1580423923.jpg?crop=1.00xw:0.671xh;0,0.282xh&resize=640:*",
+          "description": "Excepteur magna nisi tempor magna anim occaecat mollit. ",
+          "rating": 2.7
+        },
+        {
+          "name": "garage",
+          "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garage-high-res-stock-photography-1574439186.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+          "description": "Consectetur dolor reprehenderit adipisicing veniam ",
+          "rating": 2.5
+        },
+        {
+          "name": "nursery",
+          "img": "https://media.istockphoto.com/photos/gold-and-pink-babys-bedroom-picture-id961931324?k=6&m=961931324&s=612x612&w=0&h=eSjK9BnkkHNCHzj8XudIe0IQKNk7aCrTfdynRi3yyo4=",
+          "description": "Est voluptate officia tempor veniam nulla aliquip ",
+          "rating": 1.5
+        },
+        {
+          "name": "dining room",
+          "img": "https://www.janelockhart.com/blog/wp-content/uploads/2018/07/Fergus-2-Dining-Room-B-Hi-res-DSC_2872-copy-1200x801.jpg",
+          "description": "Ad ex commodo consectetur ipsum officia tempor eiusmod. ",
+          "rating": 1.2
+        },
+        {
+          "name": "Drive way",
+          "img": "https://www.countymaterials.com/images/stories/2021_January/Eggebrecht_013.jpg",
+          "description": "asdfasd",
+          "rating": 5
+        }
+      ]
+    }
+  ]
+}
