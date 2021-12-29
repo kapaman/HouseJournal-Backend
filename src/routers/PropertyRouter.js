@@ -16,7 +16,7 @@ const conn = mongoose.createConnection(mongoURI, {
 // GET ALL
 router.get('/', async (req, res, next) => {
     try {
-        const results = await Property.find({});
+        const results = await Property.find({}, { parts: { img: 0 } });
         res.json(results)
     } catch (err) {
         next(err);
@@ -25,9 +25,12 @@ router.get('/', async (req, res, next) => {
 
 // get one
 router.get('/:id', async (req, res, next) => {
+    console.log("got request-------");
     try {
         const id = req.params.id;
+        console.log(id);
         const results = await Property.find({ _id: id });
+        console.log(results);
         if (results.length > 0) {
             res.json(results)
         } else {
@@ -36,6 +39,7 @@ router.get('/:id', async (req, res, next) => {
             return next(error);
         }
     } catch (err) {
+        console.log(err);
         next(err);
     }
 })
