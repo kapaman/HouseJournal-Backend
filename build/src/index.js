@@ -19,6 +19,11 @@ app.use(express_1.default.urlencoded({ limit: "50mb" }));
 app.use((0, morgan_1.default)("tiny"));
 app.use((0, helmet_1.default)());
 app.use((0, cors_1.default)());
+app.use(function (_req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+});
 app.use("/properties", PropertyRouter_1.default);
 app.use("/views", ViewsRouter_1.default);
 // eslint-disable-next-line @typescript-eslint/no-non-null-assertion

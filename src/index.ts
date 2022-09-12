@@ -15,6 +15,14 @@ app.use(express.urlencoded({ limit: "50mb" }));
 app.use(morgan("tiny"));
 app.use(helmet());
 app.use(cors());
+app.use(function (_req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );
+  next();
+});
 app.use("/properties", PropertyRouter);
 app.use("/views", viewRouter);
 
@@ -36,7 +44,6 @@ mongoose
   });
 
 app.use(notFound);
-
 app.use(errHandler);
 
 const PORT = process.env.PORT || 5050;
